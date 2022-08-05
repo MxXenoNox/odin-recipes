@@ -1,8 +1,6 @@
 
 # Odin Recipes
 
-___
-
 ## A refresher course on Git
 
 Upon the completion of this project, I should have demonstrated my familiarity with the 
