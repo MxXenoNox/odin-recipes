@@ -24,12 +24,13 @@ ___
 
 So I think I'm getting comfortable with the basic git commands. I did struggle a bit in the 
 beginning when I did a git push. :sweat: Basically, both local and remote repos weren't in 
-sync. I 
-found a solution on Stack Overflow: 
+sync. I found a solution on [Stack 
+Overflow](https://stackoverflow.com/questions/39399804/updates-were-rejected-because-the-tip-of-your-current-branch-is-behind-its-remot) for forcing the remote repo to update with local files: 
 
 	git push -f origin main
 
-It was smooth sailing after that! :ship:
+It may not have been an elegant solution, but at least everything else was smooth sailing 
+after that! :ship:
 
 I also familiarised myself with writing a basic HTML boilerplate. Thanks, The Odin Project! 
 :heart_eyes: :heart_eyes:
