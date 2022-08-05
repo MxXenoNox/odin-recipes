@@ -29,7 +29,7 @@ beginning when I did a git push. :sweat: Basically, both local and remote repos 
 sync. I 
 found a solution on Stack Overflow: 
 
-	`git push -f origin main`
+	git push -f origin main
 
 It was smooth sailing after that! :ship:
 
