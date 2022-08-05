@@ -6,11 +6,11 @@
 Upon the completion of this project, I should have demonstrated my familiarity with the 
 following git commands:
 
-	* git clone
-	* git status
-	* git add
-	* git commit
-	* git push
+	- git clone
+	- git status
+	- git add
+	- git commit
+	- git push
 
 Additionally, I should have developed my muscle memory even further by typing basic HTML tags 
 from memory. 
