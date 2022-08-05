@@ -20,8 +20,13 @@ seems to be progressing well.
 
 ### Project Conclusion
 
-So I think I'm getting comfortable with the basic git commands. I also familiarised myself 
-with writing a basic HTML boilerplate. Thanks, The Odin Project! 
+So I think I'm getting comfortable with the basic git commands. I did struggle a bit in the 
+beginning when I did a git push. Basically, both local and remote repos weren't in sync. I 
+found a solution on Stack Overflow: *git push -f origin main*
+
+It was smooth sailing after that!
+
+I also familiarised myself with writing a basic HTML boilerplate. Thanks, The Odin Project! 
 
 It got pretty repetitive quick, but that's what copy and paste is for. ;) 
 
