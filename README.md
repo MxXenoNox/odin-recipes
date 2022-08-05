@@ -1,4 +1,6 @@
+
 # Odin Recipes
+
 ## A refresher course on Git
 
 Upon the completion of this project, I should have demonstrated my familiarity with the 
@@ -26,3 +28,6 @@ It got pretty repetitive quick, but that's what copy and paste is for. ;)
 This was also a good opportunity for me to use h1, h2, and h3 semantically. 
 
 In all, a fairly solid start today. Go me!  
+
+**A quick note: I made sure to link each recipe back to the original version on BudgetBytes. 
+Just in case!**
